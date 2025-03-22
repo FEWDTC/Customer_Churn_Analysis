@@ -1,6 +1,3 @@
-# Customer_Churn_Analysis
-Python project with strong EDA, visualizations, and actionable insights
-
 # Customer Churn Analysis
 This project analyzes customer churn behavior using a Telco dataset. The goal is to identify key drivers behind customer churn, build predictive models, and deliver actionable business recommendations.
 ---
