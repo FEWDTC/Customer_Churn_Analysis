@@ -10,7 +10,6 @@ To perform in-depth data analysis and machine learning modeling to understand wh
 Customer_Churn_Analysis/
 │
 ├── Data/                  # Raw dataset and processed data
-├── Images/                # Visualizations and charts
 ├── Notebooks/             # Jupyter Notebook analysis
 │   └── Customer_Churn_Analysis.ipynb
 └── README.md              # Project documentation
@@ -44,6 +43,7 @@ Customer_Churn_Analysis/
 - ROC Curve comparison across all models
 - Confusion matrices for all classifiers
 
+**[View Jupyter Notebook with Visualizations](https://github.com/FEWDTC/Customer_Churn_Analysis/blob/main/Notebooks/Customer_Churn_Analysis.ipynb)**
 ---
 
 ## Business Recommendations
